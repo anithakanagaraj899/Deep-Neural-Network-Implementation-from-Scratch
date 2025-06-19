@@ -32,7 +32,8 @@ This project involves implementing fundamental deep learning algorithms from fir
 - Detailed comments and explanations throughout the notebook.
 - Matplotlib, Seaborn for visualization
 
-============================================================================================
+
+-------------------------------------------------------------------------------------------------------
 
 Note: This project is for educational purposes.
 
